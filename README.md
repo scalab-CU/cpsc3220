@@ -1,2 +1,4 @@
 # cpsc3220
-Source code for CPSC3220 spring 2020
+
+1/19/20
+install-riscv-tools.sh: intall the XV6 RISC-V on your home directory. Download and run it on any machine in SoC lab computer. 
